@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AdvanceAssignment1 ">
+  <test name="AdvanceAssignment1">
+    <classes>
+       <class name="com.sgtesting.testngloginlogoutscenario.AdvanceAssignment1 "></class>   
+    </classes>
+  </test>
+</suite>
